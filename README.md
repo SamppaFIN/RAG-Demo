@@ -318,4 +318,4 @@ Olemme iloisia kaikista osallistujista! Katso englanninkielinen osio yksityiskoh
 Jos kohtaat ongelmia tai sinulla on kysymyksiä:
 1. Tarkista [Issues](../../issues) -osio
 2. Luo uusi issue kuvaamalla ongelmaasi
-3. Mukavia RAG-kokeiluja! 🍭✨ 
+3. Mukavia RAG-kokeiluja! 🍭✨
