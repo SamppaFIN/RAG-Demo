@@ -16,7 +16,7 @@ echo.
 
 :: Start backend in background
 echo 🔧 Starting backend server...
-start /b cmd /c "cd backend && venv\Scripts\activate && python main.py"
+start /b cmd /c "cd backend && venv\Scripts\activate && python openai_main.py"
 
 :: Wait a moment for backend to initialize
 echo ⏳ Waiting for backend to initialize...

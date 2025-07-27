@@ -56,7 +56,7 @@ def start_backend():
     env['PYTHONPATH'] = str(backend_path.absolute())
     
     return subprocess.Popen(
-        [sys.executable, "main.py"],
+        [sys.executable, "openai_main.py"],
         cwd=backend_path,
         env=env,
         stdout=subprocess.PIPE,
